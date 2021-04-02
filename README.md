@@ -2,7 +2,7 @@
 
 
 <div align="center">
-    <img alt="star wars" title="star wars" src="https://fontmeme.com/temporary/1b30e3397f1f1f7b6ad3ca1c305e1105.png" />
+    <img alt="star wars" title="star wars" src="https://fontmeme.com/temporary/1b30e3397f1f1f7b6ad3ca1c305e1105.png" width="20px />
 </div>
 
 <div align="center">
