@@ -14,7 +14,8 @@
 
 > Status do Projeto:  :heavy_check_mark: 
 
-## API usada 🗡️: 
+## API usada 🗡️: ![image](https://user-images.githubusercontent.com/60902843/113438412-e6316c00-93be-11eb-9fe9-6712500bb054.png)
+
 
 [API](https://swapi.dev/)
 
