@@ -1,8 +1,8 @@
-# StarWars ![image](https://user-images.githubusercontent.com/60902843/113435787-e24f1b00-93b9-11eb-9eb8-2a5d2b60db0a.png)
+# StarWars
 
 
 <div align="center">
-    <img alt="star wars" title="star wars" src="https://fontmeme.com/temporary/1b30e3397f1f1f7b6ad3ca1c305e1105.png" width="20px />
+    <img alt="star wars" title="star wars" src="https://fontmeme.com/temporary/1b30e3397f1f1f7b6ad3ca1c305e1105.png" />
 </div>
 
 <div align="center">
