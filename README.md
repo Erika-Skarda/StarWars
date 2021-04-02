@@ -8,11 +8,15 @@
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?label=REACT&message=library&color=blue&style=for-the-badge&logo=REACT"/>
-   <img src="https://img.shields.io/static/v1?label=REACT&message=library&color=blue&style=for-the-badge&logo=REACT"/>
+   <img src="https://img.shields.io/static/v1?label=JAVASCRIPT&message=langage&color=yellow&style=for-the-badge&logo=JAVASCRIPT"/>
 </div>
 </br>
 
 > Status do Projeto:  :heavy_check_mark: 
+
+## API usada 🗡️: 
+
+[API](https://swapi.dev/)
 
 ## Como rodar a aplicação :arrow_forward:
 
