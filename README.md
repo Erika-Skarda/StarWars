@@ -8,8 +8,30 @@
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?label=REACT&message=library&color=blue&style=for-the-badge&logo=REACT"/>
-
+   <img src="https://img.shields.io/static/v1?label=REACT&message=library&color=blue&style=for-the-badge&logo=REACT"/>
 </div>
 </br>
 
 > Status do Projeto:  :heavy_check_mark: 
+
+## Como rodar a aplicação :arrow_forward:
+
+No terminal, clone o projeto: 
+
+```
+git clone https://github.com/Erika-Skarda/starwars
+```
+Entre no projeto e instale as dependências através do comando:
+```
+npm install
+```
+Por último, suba a aplicação: 
+```
+npm run start
+```
+
+## Linguagens, dependencias e libs utilizadas :books:
+
+- [React](https://reactjs.org)
+- [Next.js](https://nextjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
