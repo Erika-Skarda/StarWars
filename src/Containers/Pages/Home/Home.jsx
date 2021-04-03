@@ -1,9 +1,9 @@
 import { useState } from 'react';
-import Navbar from './Components/Navbar';
-import Planets from './Components/Planets';
-import People from './Components/People';
+import Navbar from '../../../Components/Navbar';
+import Planets from '../../../Components/Planets';
+import People from '../../../Components/People';
 
-function App() {
+function Home() {
   const [page, setPage] = useState('planets');
 
   return (
@@ -13,9 +13,8 @@ function App() {
       <div className="content">
         { page === 'planets' ? <Planets /> : <People />}
       </div>
-     
     </div>
   );
 }
 
-export default App;
+export default Home;
