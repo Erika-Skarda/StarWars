@@ -1,0 +1,19 @@
+button{
+     margin: 0 10px;
+     background: transparent;
+     border: 1px solid #ffff57;
+     border-radius: 20px;
+     padding: 10px;
+     color: #ffff57;
+     font-size: 1.2em;
+     cursor: pointer;
+   }
+   button:hover{
+     color: #fff;
+     border-color: #fff;;
+   } 
+   
+   button:disabled{
+     opacity: 0.2;
+     cursor: not-allowed;
+   }

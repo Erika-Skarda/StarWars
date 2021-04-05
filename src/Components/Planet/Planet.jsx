@@ -4,7 +4,7 @@ import './index.css';
 const Planet = ({ planet }) => {
   return (
     <div className="card">
-      <h3>{ planet.name }</h3><img src={planet.url} />
+      <h3>{ planet.name }</h3>
       <p>Population - { planet.population }</p>
       <p>Terrain - { planet.terrain }</p>
       <p>Gravity - { planet.gravity }</p>
