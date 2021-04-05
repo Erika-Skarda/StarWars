@@ -31,5 +31,5 @@ npm run start
 ## Linguagens, dependencias e libs utilizadas :books:
 
 - [React](https://reactjs.org)
-- [Next.js](https://nextjs.org/)
-- [TypeScript](https://www.typescriptlang.org/)
+- [React Query](https://react-query.tanstack.com/)
+- [Javascript](https://www.javascript.org/)
