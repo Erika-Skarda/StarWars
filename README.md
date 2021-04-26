@@ -8,6 +8,9 @@
 
 > Status do Projeto:  Concluído :heavy_check_mark: 
 
+## Depoloy: 
+https://star-wars-erika-skarda.vercel.app/
+
 ## API usada 🗡️: 
 
 [API](https://swapi.dev/)
